@@ -1,0 +1,17 @@
+{
+	"counties":[
+	{"countyName": "Viken", "SystemStatus": "!DOWN", "ErrorCode": "#401b"},
+	{"countyName": "Vestland", "SystemStatus": "!DOWN", "ErrorCode": "#401b-bn2"},
+	{"countyName": "Trøndelag", "SystemStatus": "!DOWN", "ErrorCode": "#401-3ab"},
+	{"countyName": "Troms og Finnmark", "SystemStatus": "!DOWN", "ErrorCode": "#401b"},
+	{"countyName": "Vestfold og Telemark", "SystemStatus": "!DOWN", "ErrorCode": "#401b-3a"},
+	{"countyName": "Rogaland", "SystemStatus": "!DOWN", "ErrorCode": "#401b"},
+	{"countyName": "Nordland", "SystemStatus": "!DOWN", "ErrorCode": "#401b"},
+	{"countyName": "Møre og Romsdal", "SystemStatus": "!DOWN", "ErrorCode": "#401b"},
+	{"countyName": "Innlandet", "SystemStatus": "!DOWN", "ErrorCode": "#531-3c"},
+	{"countyName": "Agder", "SystemStatus": "!DOWN", "ErrorCode": "#401b"},
+	{"countyName": "Oslo", "SystemStatus": "!UP", "ErrorCode": "#102-a"},
+	{"countyName": "???", "SystemStatus": "!DOWN", "ErrorCode": "#401b"}
+	]
+}
+
