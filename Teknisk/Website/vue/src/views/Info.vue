@@ -19,8 +19,8 @@
       <h3>Hvor kan vi finne dere?</h3>
       <p>VannSkli vannrenseannlegg ligger i Mikroplastveien 3.</p>
       <ol style="line-height: 280%; list-style-type: none;">Dere kan også finne oss på følgende sosiale medier:
-        <li>Instagram: instalink</li>
-        <li>Youtube: youtubelink</li>
+        <li>Instagram: <span style="color: blue">www.instagram.com/VannSkliWaterTreatmentFacility/?hl=en</span></li>
+        <li>Youtube: <span style="color: blue">www.youtube.com/channel/VannSkliWaterTreatmentFacility12351245</span></li>
       </ol>
       <br>
       <br>
