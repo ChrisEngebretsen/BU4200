@@ -28,7 +28,11 @@
 </template>
 
 <script>
+import Hint from '../store/Hint'
 export default {
   name: 'Info',
+  created(){
+    console.log(Hint);
+  }
 }
 </script>

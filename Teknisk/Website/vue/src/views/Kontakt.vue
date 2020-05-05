@@ -7,6 +7,10 @@
   </div>
 </template>
 <script>
+import Hint from '../store/Hint'
 export default {
+  created(){
+    console.log(Hint);
+  }
 }
 </script>
