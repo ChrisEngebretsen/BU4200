@@ -16,9 +16,9 @@ Vue.use(VueRouter)
     component: () => import('../views/Miljo.vue')
   },
   {
-    path: '/Igjen',
-    name: 'Igjen',
-    component: () => import('../views/Igjen.vue')
+    path: '/Kontakt',
+    name: 'Kontakt',
+    component: () => import('../views/Kontakt.vue')
   }
 ]
 

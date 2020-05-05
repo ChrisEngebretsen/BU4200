@@ -3,7 +3,7 @@
     <div id="nav">
       <router-link to="/">Info</router-link> |
       <router-link to="/Miljo">Miljømål</router-link> |
-      <router-link to="/igjen">Kontakt</router-link>
+      <router-link to="/Kontakt">Kontakt</router-link>
       
     </div>
     <router-view/>
